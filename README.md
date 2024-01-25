@@ -6,4 +6,4 @@
 
 ##### If the result is a perfect square, the algorithm returns the exact square root; otherwise, it returns an approximation within the specified tolerance.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Square-Root/).
